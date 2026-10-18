@@ -1,0 +1,6 @@
+package androidx.lifecycle;
+
+/* loaded from: /home/user/work/dex/classes.dex */
+public interface LifecycleOwner {
+    Lifecycle getLifecycle();
+}
